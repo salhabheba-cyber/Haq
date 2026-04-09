@@ -82,3 +82,4 @@ MIT License - Free for personal and commercial use.
 🛡️ Haq - Know the truth before you regret
 
 </div> ```
+
