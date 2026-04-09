@@ -9,6 +9,7 @@
 
 **🇱🇧 Built in Beirut, Lebanon | 🌍 Available Worldwide**
 
+
 </div>
 
 ## 📋 What is Haq?
